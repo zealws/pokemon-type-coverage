@@ -18,3 +18,5 @@ The first 10 combinations are:
  - Fighting Poison Ground Rock Grass Dark Fairy
  - Fighting Flying Poison Ground Ghost Electric Ice
  - Fighting Flying Ground Steel Grass Ice Dark
+
+The code is not particularly well written, but is more of a hack to make things work quickly.
